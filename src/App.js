@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import NotesApp from './components/NotesApp'
 
 const App = () => {
-  return <placeholder />
+  return <NotesApp />
 }
 
 export default App
